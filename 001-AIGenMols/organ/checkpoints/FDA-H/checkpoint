@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/baiqf/bai/workdir/organ-Frag60-div/checkpoints/FDA-H/FDA-H_99.ckpt"
+all_model_checkpoint_paths: "/home/baiqf/bai/workdir/organ-Frag60-div/checkpoints/FDA-H/FDA-H_99.ckpt"

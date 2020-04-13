@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/baiqf/bai/workdir/organFDA1884/checkpoints/FDA1884/FDA1884_119.ckpt"
+all_model_checkpoint_paths: "/home/baiqf/bai/workdir/organFDA1884/checkpoints/FDA1884/FDA1884_119.ckpt"
